@@ -3,6 +3,6 @@ Usually, we are advised to write down every idea before it's gone. My ideas hop 
 
 The programming language I use is Python for Data Scientists which code is fast and compact.
 ## 👩🏻‍💻ˎˊ˗⋆｡°✩📄 Aimed job title: Data Science Assistant
-Looking forward to do things in real-world working environment!
+Looking forward to do things in a real-world working environment!
 
 ✉ irina.nedyalkova@hotmail.com

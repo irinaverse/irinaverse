@@ -3,4 +3,4 @@ Usually, we are advised to write down every idea before it's gone. My ideas hop 
 
 The programming language I use is Python for Data Scientists which code is fast and compact.
 
-For any inquiries: ✉ irina.nedyalkova@hotmail.com
+✉ irina.nedyalkova@hotmail.com

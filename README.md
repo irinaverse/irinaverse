@@ -5,4 +5,4 @@ Jupyter Notebook is the most amazing notebook I have ever written in! No pages, 
 - extensive experience, which leads to a network of brain areas specialized for generating the desired type of ideas
 - plus, the release of control (letting go) to allow this network to work with little or no conscious supervision.
 
-<p align="right"> 📨 irina.nedyalkova@hotmail.com </p> 
+📨 irina.nedyalkova@hotmail.com

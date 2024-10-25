@@ -5,4 +5,4 @@ Jupyter Notebook is the most amazing notebook I have ever written in! No pages, 
 
 Typically, we are advised to write down every idea before it's gone. My ideas hop impatiently through my mind until they take their proper place. My native language is Bulgarian, went to Grund- and Realschule in Schleswig-Holstein, studied English in Oxford, exploring Latin and Japanese as a hobby.
 
-Contact: irina.nedyalkova@hotmail.com  📨
+Contact: inedyalkova152025@gmail.com 📨

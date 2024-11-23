@@ -5,6 +5,6 @@ Jupyter Notebook is the most amazing notebook I have ever written in! No pages, 
 
 Typically, we are advised to write down every idea before it's gone. My ideas hop impatiently through my mind until they take their proper place. My native language is Bulgarian, went to Grund- and Realschule in Schleswig-Holstein, studied English in Oxford, exploring Latin and Japanese as a hobby.
 
-I've decided to invest my knowledge in Bulgaria, where my great-grandfathers owned land, my grandfathers owned land and my father owns land. I'll be working exclusively for a Bulgarian company, making my land smarter and wealthier.
+I've decided to invest my knowledge in Bulgaria, working exclusively for a Bulgarian company.
 
 Contact: inedyalkova152025@gmail.com 📨

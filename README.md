@@ -1,4 +1,4 @@
-### Welcome to the place where ideas breathe life.
+### Welcome to the place where my ideas breathe life.
 
 I wished for Advanced Math, Universe gifted me the whole bunch of Artificial Intelligence marvelousness. I am so forever grateful!
 

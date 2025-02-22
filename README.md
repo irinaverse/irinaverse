@@ -1,4 +1,4 @@
-## $Science$ meets $Art$ in here.
+## Art meets Science
 
 Data is on a journey, we are just the companions. We never know where the data is going to take us.
 

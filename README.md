@@ -1,9 +1,3 @@
-## Art met Science
-
-Tangent line is a straight line that touches a curve at just one point. This point shows us the behavior of a function and its direction.
-
-Ideas come in slices. It is a process of computing an integral - adding or summing up parts, to find the whole. We just have to be in a state of calculus - a continuous change in tiny steps. The Creativity Research Lab at Drexel University reveals that the creative flow state involves two key factors: extensive experience, which leads to a network of brain areas specialized for generating the desired type of ideas, plus the release of control (letting go) to allow this network to work with little or no conscious supervision.
-
-The programming language in my notebooks is Python for Data Scientists.
+I am Bulgarian who spent childhood years in Schleswig-Holstein, Germany's northernmost state. As a teenager I was already reading in three languages as well as diving deep into Jim Morrison's texts and poetry. At present, I do quite exciting stuff with texts. Be investor in my publishing house and let's shape literature.
 
 Contact: inedyalkova152025@gmail.com 📨

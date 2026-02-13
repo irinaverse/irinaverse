@@ -4,7 +4,7 @@ to build the whole thing.
 </p>
 
 
-> Text Scientist at Ira Books Publishing.\
-> The Creativity Books: A Creativity Push.
+> Text Scientist at Ira Books Publishing\
+> The Creativity Books: A Creativity Push
 
 Contact: inedyalkova152025@gmail.com 📨

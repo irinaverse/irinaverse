@@ -7,7 +7,7 @@ Ideas arrive in slices. It is like building the function from sampled points bef
 > The Creativity Books: A Creativity Push
 
 </p>
-Irina Nedyalkova is a researcher, text designer and founder of Ira Books Publishing. Her publishing house focuses on transforming complex classic literature into compact, accessible reading experience with books designed for quotation exploration. All books are printed in Bulgaria and feature a distinctive lay-flat, spiral-bound format that allows the cover to wrap around, so readers can focus on a single page at a time.
+Irina Nedyalkova is a Bulgarian researcher, text designer and founder of Ira Books Publishing. Her publishing house focuses on transforming complex classic literature into compact, accessible reading experience with books designed for quotation exploration. All books are printed in Bulgaria and feature a distinctive lay-flat, spiral-bound format that allows the cover to wrap around, so readers can focus on a single page at a time.
 </p>
 Irina uses Data Science methodologies to craft her publications. She treats iconic novels as large datasets. 
 </p>
